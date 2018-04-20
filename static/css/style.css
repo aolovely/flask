@@ -1,0 +1,9 @@
+h1{
+  color: red;
+}
+div{
+  background-image: url('../../images/slide5.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 50vh;
+}
